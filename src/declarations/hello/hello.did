@@ -1,0 +1,4 @@
+service : {
+  hello: () -> (text);
+  whoami: () -> (text) query;
+}
